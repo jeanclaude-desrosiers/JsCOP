@@ -1,0 +1,25 @@
+{
+  "name": "jscop",
+  "version": "1.0.0",
+  "description": "A \"Javascript Chess Opening Practice\" tool, used to practice playing chess against existing games (mostly openings)",
+  "main": "src/index.mjs",
+  "scripts": {
+    "start": "node --experimental-modules src/index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanclaude-desrosiers/JsCOP.git"
+  },
+  "keywords": [
+    "chess",
+    "gui",
+    "ai"
+  ],
+  "author": "jeanclaude-desrosiers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeanclaude-desrosiers/JsCOP/issues"
+  },
+  "homepage": "https://github.com/jeanclaude-desrosiers/JsCOP#readme"
+}
